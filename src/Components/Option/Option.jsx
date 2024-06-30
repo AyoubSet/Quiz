@@ -2,7 +2,7 @@ import './Option.css';
 function Option(props){
     return (
         <div>
-            props.txt
+            {props.txt}
         </div>
     );
 }

@@ -1,11 +1,8 @@
-import Option from './Components/Option/Option';
 import './App.css';
-
+import Option from './Components/Option/Option';
 function App() {
   return (
-    <Option txt="High">
-
-    </Option>
+  <div className="App"></div>
   );
 }
 
