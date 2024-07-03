@@ -1,0 +1,35 @@
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center elements vertically */
+    align-items: center; /* Center elements horizontally */
+    height: 100vh; /* Full height of viewport */
+}
+.v{
+    margin-top:20px;
+    transition: ease-out 0.5s;
+}
+#v{
+    background-color: hsl(89, 100%, 60%);
+}
+#v:hover{
+    background-color: hsl(89, 100%, 70%);
+}
+#y{
+    background-color: hsl(62, 100%, 53%);
+}
+#y:hover{
+    background-color: hsl(62, 100%, 73%);
+}
+#o{
+    background-color: hsl(36, 100%, 59%);
+}
+#o:hover{
+    background-color: hsl(36, 100%, 69%);
+}
+#r{
+    background-color: hsl(0, 99%, 59%);
+}
+#r:hover{
+    background-color: hsl(0, 99%, 69%);
+}

@@ -1,8 +1,8 @@
 import './App.css';
-import Option from './Components/Option/Option';
+import Main from './Components/Main/Main';
 function App() {
   return (
-  <div className="App"></div>
+    <Main className="Test"></Main>
   );
 }
 
